@@ -1,18 +1,15 @@
----
-title: Reachy Prophet
-emoji: 🔮
-colorFrom: purple
-colorTo: blue
-sdk: static
-pinned: false
-tags:
-  - reachy_mini
-  - reachy_mini_python_app
----
-
 # Reachy Prophet 🔮
 
 **Reachy the Mystic Prophet** - A tarot reading app for Reachy Mini that provides reflective guidance through expressive robot movements and voice interaction.
+
+## 🎥 Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=HuIfc6DwoaU">
+    <img src="https://img.youtube.com/vi/HuIfc6DwoaU/maxresdefault.jpg" width="400">
+  </a>
+</p>
+
 
 ## What It Does
 
