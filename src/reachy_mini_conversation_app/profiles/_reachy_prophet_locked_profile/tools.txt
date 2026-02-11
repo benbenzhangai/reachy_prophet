@@ -1,0 +1,21 @@
+# Tools enabled for the Reachy Prophet profile
+
+# Tarot reading tool - the core functionality
+draw_tarot_cards
+
+# Movement and expression tools for dramatic readings
+dance
+stop_dance
+play_emotion
+stop_emotion
+move_head
+sweep_look
+
+# Camera disabled for MVP (can enable later for visual readings)
+#camera
+
+# Head tracking disabled (not needed for readings)
+#head_tracking
+
+# Other tools
+#do_nothing
